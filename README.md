@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Ignacio (Nacho)
 
-### Software Engineer specialized in Android and Backend development
+### Software Engineer with experience in Android. Currently working in the backend.
 
 #### Contact with me on [Linkedin](https://www.linkedin.com/in/ignacio-bado/)
 
