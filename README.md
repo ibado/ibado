@@ -1,6 +1,6 @@
 #### Hi there 👋 I'm Ignacio (AKA Nacho)
 
-#### Former Android Dev 📱 now working in the backend side 🤓
+#### Former Android Dev 📱 now working on the backend side
 
 #### Contact with me on [Linkedin](https://www.linkedin.com/in/ignacio-bado/)
 
