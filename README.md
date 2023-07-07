@@ -1,10 +1,3 @@
-#### Hi there 👋 I'm Ignacio (AKA Nacho)
-
-#### Former Android Dev 📱 now working on the backend side
-
-#### Contact with me on [Linkedin](https://www.linkedin.com/in/ignacio-bado/)
-
-####
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibado&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
