@@ -1,2 +1,2 @@
 
-[![Top Langs](https://ibado.dev/github-stats)](https://github.com/ibado)
+[![Top Langs](https://ibado.dev/github-stats)](https://github.com/ibado/my-github-stats)
